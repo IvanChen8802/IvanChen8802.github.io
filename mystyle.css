@@ -23,8 +23,9 @@ li a{
 	text-align: center;
 	padding: 6px 12px;
 	text-decoration: none;
-	
-
+}	
+li button{
+	float: right;
 }
 li a:hover{
 	background-color: #FF0000;
