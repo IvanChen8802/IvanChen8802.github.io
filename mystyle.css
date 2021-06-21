@@ -1,0 +1,39 @@
+table{
+	font-size: 24px;
+	align: center;
+	margin: auto;
+}
+ul{	
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+	overflow: hidden;
+	
+}
+li{
+	font-size: 24px;
+	float: left;
+	text-align: center;
+	padding: 5px;
+}
+li a{
+	display: block;
+	color: black;
+	background-color: #F9F900;
+	text-align: center;
+	padding: 6px 12px;
+	text-decoration: none;
+	
+
+}
+li a:hover{
+	background-color: #FF0000;
+}
+#head{
+	text-align: center;
+	margin: auto;
+	color: #D0D0D0;
+	background-color: gray;
+	background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, purple);
+
+}
